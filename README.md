@@ -1,4 +1,4 @@
-# Hi there, I'm Trong Hieu! 👋
+# Hi there, I'm Trong Hieu! 
 
 A Mathematics and Statistics student at Ton Duc Thang University (TDTU).
 Passionate about applying mathematical and statistical models to the fields of Finance and Data Science.
