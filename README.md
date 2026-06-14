@@ -1,16 +1,15 @@
-## Hi there 👋
+# Chào bạn, tôi là Trọng Hiếu! 👋
 
-<!--
-**hieupthihi/hieupthihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sinh viên chuyên ngành Toán - Thống kê tại Đại học Tôn Đức Thắng (TDTU). Tôi đam mê việc ứng dụng các mô hình toán học và thống kê vào lĩnh vực Tài chính và Data Science.
 
-Here are some ideas to get you started:
+### 🚀 Kỹ năng của tôi:
+- **Ngôn ngữ:** Python, SQL, R
+- **Công cụ:** LaTeX (Overleaf), Git, Power BI
+- **Lĩnh vực quan tâm:** Quantitative Finance, Risk Management, Data Analysis, Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Mục tiêu:
+Đang tìm kiếm cơ hội thực tập vị trí Data Analyst/Quant Researcher. Tôi yêu thích việc giải quyết các bài toán kinh doanh bằng tư duy logic và dữ liệu.
+
+### 📫 Liên hệ:
+- **Email:** phamhieu11032006@gmail.com
+- **LinkedIn:** linkedin.com/in/tronghieu-ph/
